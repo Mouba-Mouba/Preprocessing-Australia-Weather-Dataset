@@ -1,1 +1,2 @@
-# Preprocessing-Australia-Weather-Dataset
+## DATA PREPROCESSING: CASE STUDY ON AUSTRALIA WEATHER DATASET
+The weather remains one of the challenges in a country's development. It remains a mystery that meteorologists are still discovering new insights to understand it and make it use to our advantage to develop our country. Developing a predictive analysis to predict the nextday rain was suggested to overcome this problem. This paper will provide a detailed explanation of the dataset's pre-processing, with a focus on data reduction, cleaning, and transformation. We'll also talk about handling class imbalance problems and their associated data transformation.
